@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aflybits
 - 👀 I’m interested in studying!
 - 🌱 I’m currently learning c.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I want to get a work at huawei!
 - 📫 How to reach me ...by qq：2387198314
 
 <!---
